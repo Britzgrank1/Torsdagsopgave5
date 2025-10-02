@@ -19,7 +19,7 @@ public class Main {
         //Her kalder jeg på printcustomers
         printCustomers(customers);
         }
-        //
+
         public static void  printCustomers(ArrayList<Customer> customers){
         //Min for loop som går igennem hver Customer objekt jeg har lavet
         for (Customer customer : customers){
