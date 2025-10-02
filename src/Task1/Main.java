@@ -41,7 +41,7 @@ class Customer {
    private  int id;
    private static int counter;
 //
-    public Customer(String lastName, String firstName, String userName) {
+    public Customer(String firstName, String lastName, String userName) {
         this.lastName = lastName;
         this.firstName = firstName;
         this.userName = userName;
